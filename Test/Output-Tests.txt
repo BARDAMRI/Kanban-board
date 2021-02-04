@@ -1,0 +1,340 @@
+﻿[20/06/2020 12:13:35 Warning] Build failed or it was cancelled.
+[20/06/2020 12:14:43 Warning] Build failed or it was cancelled.
+[20/06/2020 12:21:48 Informational] ------ Discover test started ------
+[20/06/2020 12:21:50 Informational] Test project KanbanProject does not reference any .NET NuGet adapter. Test discovery or execution might not work for this project.
+It's recommended to reference NuGet test adapters in each test project in the solution.
+[20/06/2020 12:21:50 Informational] ========== Discover test finished: 0 found (0:00:02.2367632) ==========
+[20/06/2020 12:23:02 Informational] ------ Discover test started ------
+[20/06/2020 12:23:04 Informational] ========== Discover test finished: 1 found (0:00:01.8977797) ==========
+[20/06/2020 12:28:22 Informational] ------ Run test started ------
+[20/06/2020 12:28:23 Warning] No test matches the given testcase filter `FullyQualifiedName=Test.UnitTest1.moveColumnRight` in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:28:23 Informational] ========== Run test finished: 0 run (0:00:00.7083404) ==========
+[20/06/2020 12:28:34 Informational] ------ Run test started ------
+[20/06/2020 12:28:34 Warning] No test matches the given testcase filter `FullyQualifiedName=Test.UnitTest1.moveColumnRight` in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:28:34 Informational] ========== Run test finished: 0 run (0:00:00.3625918) ==========
+[20/06/2020 12:28:43 Informational] ------ Discover test started ------
+[20/06/2020 12:28:43 Warning] No test is available in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+[20/06/2020 12:28:43 Informational] ========== Discover test finished: 0 found (0:00:00.597324) ==========
+[20/06/2020 12:29:08 Informational] ------ Discover test started ------
+[20/06/2020 12:29:08 Informational] ========== Discover test finished: 0 found (0:00:00.2392577) ==========
+[20/06/2020 12:29:08 Informational] ------ Run test started ------
+[20/06/2020 12:29:08 Warning] No test is available in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+[20/06/2020 12:29:09 Informational] ========== Run test finished: 0 run (0:00:00.441669) ==========
+[20/06/2020 12:30:55 Informational] ------ Discover test started ------
+[20/06/2020 12:30:55 Informational] NUnit Adapter 3.16.1.0: Test discovery starting
+[20/06/2020 12:30:56 Informational] NUnit Adapter 3.16.1.0: Test discovery complete
+[20/06/2020 12:30:56 Informational] ========== Discover test finished: 1 found (0:00:00.974229) ==========
+[20/06/2020 12:31:00 Informational] ------ Run test started ------
+[20/06/2020 12:31:00 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:31:00 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:31:00 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 12:31:00 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 12:31:00 Informational] ========== Run test finished: 1 run (0:00:00.7931041) ==========
+[20/06/2020 12:31:19 Informational] ------ Run test started ------
+[20/06/2020 12:31:20 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:31:21 Informational] Debugging selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:31:21 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 12:31:36 Error] The active test run was aborted. Reason: 
+[20/06/2020 12:31:36 Informational] ========== Run test finished: 0 run (0:00:16.879991) ==========
+[20/06/2020 12:32:25 Informational] ------ Run test started ------
+[20/06/2020 12:32:26 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:32:26 Informational] Debugging selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:32:26 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 12:34:40 Error] The active test run was aborted. Reason: 
+[20/06/2020 12:34:40 Informational] ========== Run test finished: 0 run (0:02:14.531976) ==========
+[20/06/2020 12:35:55 Informational] ------ Run test started ------
+[20/06/2020 12:35:56 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:35:56 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:35:56 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 12:35:56 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 12:35:56 Informational] ========== Run test finished: 1 run (0:00:00.943284) ==========
+[20/06/2020 12:36:42 Warning] Build failed or it was cancelled.
+[20/06/2020 12:37:01 Informational] ------ Discover test started ------
+[20/06/2020 12:37:01 Informational] NUnit Adapter 3.16.1.0: Test discovery starting
+[20/06/2020 12:37:01 Informational] NUnit Adapter 3.16.1.0: Test discovery complete
+[20/06/2020 12:37:01 Informational] Test project KanbanProject does not reference any .NET NuGet adapter. Test discovery or execution might not work for this project.
+It's recommended to reference NuGet test adapters in each test project in the solution.
+[20/06/2020 12:37:01 Informational] ========== Discover test finished: 2 found (0:00:00.6924495) ==========
+[20/06/2020 12:37:01 Informational] ------ Run test started ------
+[20/06/2020 12:37:02 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:37:02 Informational] Running all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:37:02 Informational]    NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[20/06/2020 12:37:02 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 12:37:02 Informational] ========== Run test finished: 2 run (0:00:01.0068863) ==========
+[20/06/2020 12:44:24 Informational] ------ Run test started ------
+[20/06/2020 12:44:25 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:44:25 Informational] Running all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:44:25 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 12:44:25 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 12:44:26 Informational] ========== Run test finished: 1 run (0:00:01.125237) ==========
+[20/06/2020 12:44:32 Informational] ------ Run test started ------
+[20/06/2020 12:44:33 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:44:33 Informational] Debugging selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:44:33 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 12:44:47 Error] The active test run was aborted. Reason: 
+[20/06/2020 12:44:47 Informational] ========== Run test finished: 0 run (0:00:15.1266147) ==========
+[20/06/2020 12:45:46 Informational] ------ Run test started ------
+[20/06/2020 12:45:46 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:45:46 Informational] Debugging selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:45:47 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 12:47:36 Error] The active test run was aborted. Reason: 
+[20/06/2020 12:47:36 Informational] ========== Run test finished: 0 run (0:01:50.158323) ==========
+[20/06/2020 12:49:34 Warning] Build failed or it was cancelled.
+[20/06/2020 12:49:46 Informational] ------ Discover test started ------
+[20/06/2020 12:49:47 Informational] NUnit Adapter 3.16.1.0: Test discovery starting
+[20/06/2020 12:49:47 Informational] NUnit Adapter 3.16.1.0: Test discovery complete
+[20/06/2020 12:49:47 Informational] Test project KanbanProject does not reference any .NET NuGet adapter. Test discovery or execution might not work for this project.
+It's recommended to reference NuGet test adapters in each test project in the solution.
+[20/06/2020 12:49:47 Informational] ========== Discover test finished: 3 found (0:00:00.9467699) ==========
+[20/06/2020 12:49:54 Informational] ------ Discover test started ------
+[20/06/2020 12:49:54 Informational] ========== Discover test finished: 0 found (0:00:00.2759125) ==========
+[20/06/2020 12:49:54 Informational] ------ Run test started ------
+[20/06/2020 12:49:54 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:49:54 Informational] Running all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:49:54 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 12:49:55 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 12:49:55 Informational] ========== Run test finished: 3 run (0:00:00.9675631) ==========
+[20/06/2020 12:50:15 Informational] ------ Run test started ------
+[20/06/2020 12:50:16 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:50:16 Informational] Running all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:50:16 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 12:50:16 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 12:50:16 Informational] ========== Run test finished: 3 run (0:00:00.9429013) ==========
+[20/06/2020 12:50:41 Informational] ------ Run test started ------
+[20/06/2020 12:50:41 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:50:41 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:50:41 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 12:50:41 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 12:50:41 Informational] ========== Run test finished: 1 run (0:00:00.734461) ==========
+[20/06/2020 12:50:53 Informational] ------ Run test started ------
+[20/06/2020 12:50:53 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:50:53 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:50:54 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 12:50:54 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 12:50:54 Informational] ========== Run test finished: 1 run (0:00:00.8907022) ==========
+[20/06/2020 12:51:12 Informational] ------ Discover test started ------
+[20/06/2020 12:51:13 Informational] NUnit Adapter 3.16.1.0: Test discovery starting
+[20/06/2020 12:51:13 Informational] NUnit Adapter 3.16.1.0: Test discovery complete
+[20/06/2020 12:51:13 Informational] ========== Discover test finished: 2 found (0:00:00.5676675) ==========
+[20/06/2020 12:51:13 Informational] ------ Run test started ------
+[20/06/2020 12:51:13 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:51:13 Informational] Running all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:51:13 Informational]    NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[20/06/2020 12:51:14 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 12:51:14 Informational] ========== Run test finished: 2 run (0:00:00.9806324) ==========
+[20/06/2020 12:53:15 Informational] ------ Discover test started ------
+[20/06/2020 12:53:16 Informational] NUnit Adapter 3.16.1.0: Test discovery starting
+[20/06/2020 12:53:16 Informational] NUnit Adapter 3.16.1.0: Test discovery complete
+[20/06/2020 12:53:16 Informational] ========== Discover test finished: 3 found (0:00:00.5998775) ==========
+[20/06/2020 12:53:16 Informational] ------ Run test started ------
+[20/06/2020 12:53:16 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:53:16 Informational] Running all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:53:16 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 12:53:17 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 12:53:17 Informational] ========== Run test finished: 3 run (0:00:00.9648941) ==========
+[20/06/2020 12:53:49 Informational] ------ Discover test started ------
+[20/06/2020 12:53:49 Informational] NUnit Adapter 3.16.1.0: Test discovery starting
+[20/06/2020 12:53:50 Informational] NUnit Adapter 3.16.1.0: Test discovery complete
+[20/06/2020 12:53:50 Informational] ========== Discover test finished: 3 found (0:00:00.9406121) ==========
+[20/06/2020 12:53:50 Informational] ------ Run test started ------
+[20/06/2020 12:53:50 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:53:50 Informational] Running all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:53:51 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 12:53:51 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 12:53:51 Informational] ========== Run test finished: 3 run (0:00:01.0707285) ==========
+[20/06/2020 12:54:15 Informational] ------ Run test started ------
+[20/06/2020 12:54:15 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:54:16 Informational] Debugging selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:54:16 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 12:55:22 Error] The active test run was aborted. Reason: 
+[20/06/2020 12:55:22 Informational] ========== Run test finished: 0 run (0:01:06.8737417) ==========
+[20/06/2020 12:55:37 Informational] ------ Discover test started ------
+[20/06/2020 12:55:37 Informational] Test project KanbanProject does not reference any .NET NuGet adapter. Test discovery or execution might not work for this project.
+It's recommended to reference NuGet test adapters in each test project in the solution.
+[20/06/2020 12:55:37 Informational] ========== Discover test finished: 0 found (0:00:00.2998437) ==========
+[20/06/2020 12:55:37 Informational] ------ Run test started ------
+[20/06/2020 12:55:38 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:55:38 Informational] Running all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:55:38 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 12:55:38 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 12:55:38 Informational] ========== Run test finished: 3 run (0:00:01.0024399) ==========
+[20/06/2020 12:56:22 Informational] ------ Discover test started ------
+[20/06/2020 12:56:22 Informational] Test project KanbanProject does not reference any .NET NuGet adapter. Test discovery or execution might not work for this project.
+It's recommended to reference NuGet test adapters in each test project in the solution.
+[20/06/2020 12:56:22 Informational] ========== Discover test finished: 0 found (0:00:00.8028204) ==========
+[20/06/2020 12:56:58 Informational] ------ Discover test started ------
+[20/06/2020 12:56:58 Informational] NUnit Adapter 3.16.1.0: Test discovery starting
+[20/06/2020 12:56:59 Informational] NUnit Adapter 3.16.1.0: Test discovery complete
+[20/06/2020 12:56:59 Informational] ========== Discover test finished: 3 found (0:00:00.8830955) ==========
+[20/06/2020 12:56:59 Informational] ------ Run test started ------
+[20/06/2020 12:56:59 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 12:56:59 Informational] Running all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 12:56:59 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 12:57:00 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 12:57:00 Informational] ========== Run test finished: 3 run (0:00:01.2231264) ==========
+[20/06/2020 13:00:08 Informational] ------ Discover test started ------
+[20/06/2020 13:00:09 Informational] NUnit Adapter 3.16.1.0: Test discovery starting
+[20/06/2020 13:00:09 Informational] NUnit Adapter 3.16.1.0: Test discovery complete
+[20/06/2020 13:00:09 Informational] Test project KanbanProject does not reference any .NET NuGet adapter. Test discovery or execution might not work for this project.
+It's recommended to reference NuGet test adapters in each test project in the solution.
+[20/06/2020 13:00:09 Informational] ========== Discover test finished: 3 found (0:00:00.7092328) ==========
+[20/06/2020 13:00:09 Informational] ------ Run test started ------
+[20/06/2020 13:00:09 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:00:09 Informational] Running all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:00:10 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 13:00:10 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:00:10 Informational] ========== Run test finished: 3 run (0:00:01.1871757) ==========
+[20/06/2020 13:00:27 Informational] ------ Run test started ------
+[20/06/2020 13:00:28 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:00:28 Informational] Debugging selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:00:28 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 13:01:23 Error] The active test run was aborted. Reason: 
+[20/06/2020 13:01:23 Informational] ========== Run test finished: 0 run (0:00:56.1423114) ==========
+[20/06/2020 13:01:27 Informational] ------ Run test started ------
+[20/06/2020 13:01:27 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:01:28 Informational] Debugging selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:01:28 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 13:02:33 Error] The active test run was aborted. Reason: 
+[20/06/2020 13:02:33 Informational] ========== Run test finished: 0 run (0:01:06.4619353) ==========
+[20/06/2020 13:04:26 Informational] ------ Run test started ------
+[20/06/2020 13:04:27 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:04:27 Informational] Debugging all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:04:27 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 13:09:20 Error] The active test run was aborted. Reason: 
+[20/06/2020 13:09:20 Informational] ========== Run test finished: 0 run (0:04:53.5757165) ==========
+[20/06/2020 13:12:26 Informational] ------ Discover test started ------
+[20/06/2020 13:12:26 Informational] Test project KanbanProject does not reference any .NET NuGet adapter. Test discovery or execution might not work for this project.
+It's recommended to reference NuGet test adapters in each test project in the solution.
+[20/06/2020 13:12:26 Informational] ========== Discover test finished: 0 found (0:00:00.3281234) ==========
+[20/06/2020 13:12:40 Informational] ------ Run test started ------
+[20/06/2020 13:12:40 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:12:40 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:12:40 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 13:12:41 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:12:41 Informational] ========== Run test finished: 1 run (0:00:01.054552) ==========
+[20/06/2020 13:22:04 Warning] Build failed or it was cancelled.
+[20/06/2020 13:22:36 Informational] ------ Discover test started ------
+[20/06/2020 13:22:37 Informational] NUnit Adapter 3.16.1.0: Test discovery starting
+[20/06/2020 13:22:37 Informational] NUnit Adapter 3.16.1.0: Test discovery complete
+[20/06/2020 13:22:37 Informational] Test project KanbanProject does not reference any .NET NuGet adapter. Test discovery or execution might not work for this project.
+It's recommended to reference NuGet test adapters in each test project in the solution.
+[20/06/2020 13:22:37 Informational] ========== Discover test finished: 3 found (0:00:00.8423805) ==========
+[20/06/2020 13:22:37 Informational] ------ Run test started ------
+[20/06/2020 13:22:37 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:22:37 Informational] Running all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:22:38 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 13:22:38 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:22:38 Informational] ========== Run test finished: 3 run (0:00:00.756029) ==========
+[20/06/2020 13:28:20 Informational] ------ Discover test started ------
+[20/06/2020 13:28:20 Informational] NUnit Adapter 3.16.1.0: Test discovery starting
+[20/06/2020 13:28:21 Informational] NUnit Adapter 3.16.1.0: Test discovery complete
+[20/06/2020 13:28:21 Informational] ========== Discover test finished: 9 found (0:00:00.9674125) ==========
+[20/06/2020 13:28:21 Informational] ------ Run test started ------
+[20/06/2020 13:28:21 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:28:21 Informational] Running all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:28:21 Informational]    NUnit3TestExecutor converted 9 of 9 NUnit test cases
+[20/06/2020 13:28:22 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:28:22 Informational] ========== Run test finished: 9 run (0:00:01.2845905) ==========
+[20/06/2020 13:31:42 Warning] Build failed or it was cancelled.
+[20/06/2020 13:32:01 Informational] ------ Run test started ------
+[20/06/2020 13:32:01 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:32:01 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:32:02 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 13:32:02 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:32:02 Informational] ========== Run test finished: 3 run (0:00:00.998236) ==========
+[20/06/2020 13:40:27 Informational] ------ Run test started ------
+[20/06/2020 13:40:28 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:40:28 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:40:28 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 13:40:28 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:40:28 Informational] ========== Run test finished: 3 run (0:00:00.9742694) ==========
+[20/06/2020 13:40:45 Informational] ------ Run test started ------
+[20/06/2020 13:40:46 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:40:46 Informational] Debugging selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:40:46 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 13:40:50 Error] The active test run was aborted. Reason: 
+[20/06/2020 13:40:50 Informational] ========== Run test finished: 0 run (0:00:05.3693705) ==========
+[20/06/2020 13:41:03 Informational] ------ Run test started ------
+[20/06/2020 13:41:04 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:41:04 Informational] Debugging selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:41:04 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 13:41:38 Error] The active test run was aborted. Reason: 
+[20/06/2020 13:41:38 Informational] ========== Run test finished: 0 run (0:00:35.3739087) ==========
+[20/06/2020 13:42:02 Informational] ------ Run test started ------
+[20/06/2020 13:42:02 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:42:02 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:42:02 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 13:42:03 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:42:03 Informational] ========== Run test finished: 1 run (0:00:00.9385368) ==========
+[20/06/2020 13:42:12 Informational] ------ Run test started ------
+[20/06/2020 13:42:13 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:42:13 Informational] Debugging selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:42:13 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 13:42:23 Error] The active test run was aborted. Reason: 
+[20/06/2020 13:42:23 Informational] ========== Run test finished: 0 run (0:00:10.9017688) ==========
+[20/06/2020 13:42:28 Informational] ------ Discover test started ------
+[20/06/2020 13:42:29 Informational] NUnit Adapter 3.16.1.0: Test discovery starting
+[20/06/2020 13:42:29 Informational] NUnit Adapter 3.16.1.0: Test discovery complete
+[20/06/2020 13:42:30 Informational] Test project KanbanProject does not reference any .NET NuGet adapter. Test discovery or execution might not work for this project.
+It's recommended to reference NuGet test adapters in each test project in the solution.
+[20/06/2020 13:42:30 Informational] ========== Discover test finished: 9 found (0:00:01.5218055) ==========
+[20/06/2020 13:42:44 Informational] ------ Run test started ------
+[20/06/2020 13:42:44 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:42:44 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:42:45 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 13:42:45 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:42:45 Informational] ========== Run test finished: 1 run (0:00:01.0609896) ==========
+[20/06/2020 13:42:51 Informational] ------ Run test started ------
+[20/06/2020 13:42:52 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:42:52 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:42:52 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 13:42:52 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:42:52 Informational] ========== Run test finished: 3 run (0:00:01.0074341) ==========
+[20/06/2020 13:43:04 Informational] ------ Run test started ------
+[20/06/2020 13:43:04 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:43:04 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:43:05 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 13:43:05 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:43:05 Informational] ========== Run test finished: 1 run (0:00:00.8900969) ==========
+[20/06/2020 13:43:08 Informational] ------ Run test started ------
+[20/06/2020 13:43:08 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:43:08 Informational] Debugging selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:43:09 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 13:43:11 Error] The active test run was aborted. Reason: 
+[20/06/2020 13:43:11 Informational] ========== Run test finished: 0 run (0:00:03.8320403) ==========
+[20/06/2020 13:43:29 Informational] ------ Run test started ------
+[20/06/2020 13:43:30 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:43:30 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:43:30 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 13:43:30 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:43:30 Informational] ========== Run test finished: 3 run (0:00:01.139892) ==========
+[20/06/2020 13:43:52 Informational] ------ Run test started ------
+[20/06/2020 13:43:52 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:43:52 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:43:52 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 13:43:53 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:43:53 Informational] ========== Run test finished: 1 run (0:00:01.0581346) ==========
+[20/06/2020 13:43:58 Informational] ------ Run test started ------
+[20/06/2020 13:43:58 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:43:58 Informational] Debugging selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:43:58 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 13:44:08 Error] The active test run was aborted. Reason: 
+[20/06/2020 13:44:08 Informational] ========== Run test finished: 0 run (0:00:10.8651325) ==========
+[20/06/2020 13:44:12 Informational] ------ Run test started ------
+[20/06/2020 13:44:13 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:44:13 Informational] Debugging selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:44:13 Informational]    NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[20/06/2020 13:44:28 Error] The active test run was aborted. Reason: 
+[20/06/2020 13:44:28 Informational] ========== Run test finished: 0 run (0:00:15.6814113) ==========
+[20/06/2020 13:44:44 Informational] ------ Run test started ------
+[20/06/2020 13:44:44 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:44:44 Informational] Running selected tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:44:44 Informational]    NUnit3TestExecutor converted 3 of 3 NUnit test cases
+[20/06/2020 13:44:45 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:44:45 Informational] ========== Run test finished: 3 run (0:00:00.8592356) ==========
+[20/06/2020 13:50:34 Informational] ------ Run test started ------
+[20/06/2020 13:50:35 Informational] NUnit Adapter 3.16.1.0: Test execution started
+[20/06/2020 13:50:35 Informational] Running all tests in C:\Users\barda\source\repos\BGU-SE\milestones-2-baby\Test\bin\Debug\Test.dll
+[20/06/2020 13:50:35 Informational]    NUnit3TestExecutor converted 10 of 10 NUnit test cases
+[20/06/2020 13:50:35 Informational] NUnit Adapter 3.16.1.0: Test execution complete
+[20/06/2020 13:50:35 Informational] ========== Run test finished: 1 run (0:00:01.004143) ==========
